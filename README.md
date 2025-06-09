@@ -5,7 +5,7 @@ This Python project predicts real estate housing prices using the Boston Housing
 ## 📂 Files Included
 
 - `Real-Estate.py` – Final cleaned model script
-- `data.csv` – Dataset (Housing)
+- `data.csv` – Dataset (Boston housing)
 - `Real-Estate.joblib` – Saved trained model
 - `requirements.txt` – Libraries needed to run
 - `Real Estate.ipynb` – Step-by-step notebook version
@@ -19,7 +19,7 @@ python Real-Estate.py
 
 ## 🔍 Features
 
-- Preprocessing with pipelines (SimpleImputer, StandardScaler)
+- Preprocessing with pipelines (`SimpleImputer`, `StandardScaler`)
 - Model selection: Linear, Decision Tree, Random Forest
 - Evaluation with Cross Validation
 - Final prediction on test data
@@ -27,8 +27,10 @@ python Real-Estate.py
 
 ## 📈 Example Output
 
-- Final RMSE on Test Set: 2.69
-- Predicted Price: [23.56]
+```
+Final RMSE on Test Set: 2.69
+Predicted Price: [23.56]
+```
 
 ## 🤖 Libraries Used
 
