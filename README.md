@@ -5,10 +5,10 @@ This Python project predicts real estate housing prices using the Boston Housing
 ## 📂 Files Included
 
 - `Real-Estate.py` – Final cleaned model script
-- `data.csv` – Dataset (Boston housing)
+- `data.csv` – Dataset (Housing)
 - `Real-Estate.joblib` – Saved trained model
 - `requirements.txt` – Libraries needed to run
-- `Real Estate.ipynb` – (Optional) Step-by-step notebook version
+- `Real Estate.ipynb` – Step-by-step notebook version
 
 ## 🚀 How to Run
 
