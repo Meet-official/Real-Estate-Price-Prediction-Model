@@ -38,3 +38,5 @@ Predicted Price: [23.56]
 - numpy
 - scikit-learn
 - joblib
+
+Made with ❤️ by **Meet Patel**
