@@ -1,4 +1,4 @@
-# 🏘️ Real Estate Price Prediction using Machine Learning
+# 🏘️ Real Estate Price Prediction
 
 This Python project predicts real estate housing prices using the Boston Housing Dataset. The model uses preprocessing pipelines, feature engineering, and Random Forest Regressor from `scikit-learn`.
 
